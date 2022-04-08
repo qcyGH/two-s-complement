@@ -98,10 +98,10 @@ ____
 >Number type isn`t string!   
 >Try again  
 >Enter binary number: fgd   
->Number type isn`t string!   
+>Number type isn't string!   
 >Try again   
 >Enter binary number: 456   
->Number type isn`t string!   
+>Number type isn't string!   
 >Try again   
 >Enter binary number: 101   
 >Signed number:    00000101  
